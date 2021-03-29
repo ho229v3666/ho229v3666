@@ -9,7 +9,7 @@
 - In the end, I have a little request:  
 Can you give me a ✨star✨ for my project.
 
-![image](https://img.shields.io/badge/-C/C++-9932CC?style=flat-square&logo=c&logoColor=ffffff&labelColor=7B68EE)
-![image](https://img.shields.io/badge/-Qt5-29beb0?style=flat-square&logo=qt&labelColor=FFFF37)
+[![image](https://img.shields.io/badge/-C/C++-9932CC?style=flat-square&logo=c&logoColor=ffffff&labelColor=7B68EE)](https://www.cplusplus.com/)
+[![image](https://img.shields.io/badge/-Qt5-29beb0?style=flat-square&logo=qt&labelColor=FFFF37)](https://www.qt.io/)
 
 [![@chat](https://chat.getloli.com/room/@ho229-github-readme/svg?title=Ho229&theme=light)](https://chat.getloli.com/room/@ho229-github-readme?title=Ho229)
